@@ -1,0 +1,6 @@
+name: Contact form blocks
+type: module
+description: 'Allows to create block instances of contact forms'
+package: Menu
+version: VERSION
+core: 8.x
