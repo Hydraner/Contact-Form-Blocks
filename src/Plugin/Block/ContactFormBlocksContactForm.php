@@ -188,7 +188,6 @@ class ContactFormBlocksContactForm extends BlockBase implements ContainerFactory
     return $form;
   }
 
-
   /**
    * Throws an exception if the current user triggers flood control.
    *
