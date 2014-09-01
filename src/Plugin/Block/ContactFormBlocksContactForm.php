@@ -151,6 +151,8 @@ class ContactFormBlocksContactForm extends BlockBase implements ContainerFactory
 
     $form = $this->entityFormBuilder->getForm($message);
     $form['#title'] = String::checkPlain($contact_form->label());
+
+    return $form;
   }
 
   /**
