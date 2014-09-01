@@ -2,7 +2,21 @@
   "name": "drupal/contact_form_blocks",
   "description": "Contact form blocks module",
   "type": "drupal-module",
+  "homepage": "https://github.com/Hydraner/Contact-Form-Blocks",
+  "authors": [
+    {
+      "name": "Pascal Crott (Hydra)",
+      "email": "pascal.crott@erdfisch.de",
+      "homepage": "https://erdfisch.de",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/Hydraner/Contact-Form-Blocks/issues",
+    "irc": "irc://irc.freenode.org/drupal-contribute",
+    "source": "https://github.com/Hydraner/Contact-Form-Blocks"
+  },
   "license": "GPL-2.0+",
   "minimum-stability": "dev",
-  "require": { }
+  "require": {}
 }
